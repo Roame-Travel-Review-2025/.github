@@ -7,7 +7,7 @@
   height="450"
 />
 
-<a target="_blank" href="https://roame.travel/subscription?via=new">👉<Click here to have free access !</a>
+👉<a target="_blank" href="https://roame.travel/subscription?via=new">Click here to have free access !</a>
 
 <a target="_blank" href="https://roame.travel/subscription?via=new">Click here to have free access ! !</a>
 

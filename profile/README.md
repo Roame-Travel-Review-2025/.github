@@ -1,7 +1,7 @@
 <h1>Roam Travel Review 2025: Is Roame.travel the Best Tool for Booking Flights with Miles?</h1>
 <p><strong>Roam Travel</strong> | <time datetime="2025-04-10">April 10, 2025</time></p>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT--Us6413ZYEpnA_m38WjmNHxHhsCILpOjOQ&s"
+<img src="https://roame.travel/images/meta_2023_04_12_2x.png"
   alt="comparative with Roam Travel "
   width="750"
   height="450"
@@ -44,7 +44,7 @@
 <img src="https://i.ytimg.com/vi/WAX4BuFoT5w/maxresdefault.jpg"
   alt="comparative with Roam Travel "
   width="750"
-  height="250"
+  height="450"
 />
 
 
